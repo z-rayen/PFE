@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "doctor_skin",
+			"path": "../../../.."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../../pfe/doctor_skin/assets"
+		}
+	],
+	"settings": {}
+}
